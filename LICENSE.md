@@ -1,4 +1,4 @@
-# 
+# Turbo JetBrains WebStorm preajustes para Mac OS | Élite JetBrains WebStorm preajustes para PC Windows. Con edición multicursor y flujo de trabajo de pull request — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
